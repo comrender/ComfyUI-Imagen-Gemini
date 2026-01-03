@@ -1,4 +1,5 @@
 # ComfyUI-Imagen-Gemini
+<img width="1057" height="584" alt="gemini-imagen" src="https://github.com/user-attachments/assets/881fcf7f-a631-4f6a-aab4-a0582bf2d75d" />
 
 A custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that integrates Google's latest **Imagen 4** and **Imagen 3** generative models via the Gemini API. 
 
